@@ -1,4 +1,5 @@
 # Eduardoreisboattini.github.io
+
 Eduardo Reis Boattini Portfolio
 <h1 align="center">GitHub PROJECT</h1>
 
@@ -27,19 +28,18 @@ Eduardo Reis Boattini Portfolio
   </a>
 </p>
 
-
 <h2>Introduction</h2>
 
 Welcome to the Self-Learning Programming Progress Tracker!<br>  
-<br> 
+<br>
 🚀 This repository serves as a personal log of my journey in learning programming languages independently.
-<br> 
+<br>
 Through this project, I aim to document my progress, showcase the skills I have acquired, and provide insights into the projects I have completed.
 
 <h2>Motivation</h2>
 
 The motivation behind this project is to demonstrate my dedication and passion for programming.<br>
-💪 By embarking on this self-learning journey, I have honed my skills in various programming languages and technologies. 
+💪 By embarking on this self-learning journey, I have honed my skills in various programming languages and technologies.
 Through continuous learning, practice, and hands-on projects, I have deepened my understanding and expertise in the world of programming.
 
 <h2>Project Structure</h2>
