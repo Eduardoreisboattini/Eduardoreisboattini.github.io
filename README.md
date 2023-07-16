@@ -33,11 +33,11 @@ Eduardo Reis Boattini Portfolio
 Welcome to the Self-Learning Programming Progress Tracker!<br>  
 <br>
 
-
+<p align="center">
 <a href="https://github.com/Eduardoreisboattini/GitHub_PROJECT">
   <img src="./images/GitProject_CARD_TEMPLATE.png" alt="GitHub Card" width="280" height="190">&nbsp;&nbsp;
 </a>
-
+</p>
 
 
 
