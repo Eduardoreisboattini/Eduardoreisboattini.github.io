@@ -60,7 +60,7 @@ Contains useful resources, tutorials, and reference materials I have utilized du
 
 <h3>⭐ #00 Progress Highlights</h3>
 
-Here are some of the key highlights of my self-learning programming journey:
+Here are some of the key highlights of my self-learning programming journey.
 
 <h3>🌱 #00 Learning Process</h3>
 
