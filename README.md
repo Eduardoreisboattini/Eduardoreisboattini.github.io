@@ -16,7 +16,7 @@ Eduardo Reis Boattini Portfolio
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/eduardoreisboattini">
+  <a href="https://lnkd.in/dkmjaM9y">
     <img src="./ICONS/linkedin.png" alt="LinkedIn" width="60" height="60">&nbsp;&nbsp;
   </a>
   <a href="mailto:eduardo.reis@unifesp.br">
